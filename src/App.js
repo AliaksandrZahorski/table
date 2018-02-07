@@ -4,7 +4,7 @@ import Table from './Table';
 import './App.css';
 
 const tableStyle = {
-  w: [5, 1, 1, 2, 1],
+  w: [3, 1, 1, 2, 1],
 };
 
 class App extends Component {
